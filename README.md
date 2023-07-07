@@ -2,8 +2,9 @@
 
 Organize your worlds and servers with folders in the play screens.
 
-* Add folders with custom names to your singleplayer and multiplayer screens.
+* Add folders, sections and seperators with custom names to your singleplayer and multiplayer screens.
 * Move entries in and out of folders.
+* Move folders, sections and seperators inside each other
 * Organize your worlds and servers as you wish.
 * The path to the current folder is shown at the top, except for the root folder.
 * Searching for worlds still works. The path of the selected world will be shown. You will be taken to the selected
